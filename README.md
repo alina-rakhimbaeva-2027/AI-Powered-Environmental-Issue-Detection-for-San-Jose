@@ -1,6 +1,6 @@
 ## AI-Powered Environmental Issue Detection for San Jose
 
-AI for Social Good prototype that converts unstructured environmental reports and images into standardized records for preliminary human review.
+This project uses artificial intelligence to identify environmental issues in San Jose, such as litter, pollution, damaged infrastructure, and other community concerns. It demonstrates how computer vision and data analysis can support smarter, faster, and more sustainable urban problem-solving.
 
 Open the notebook in Google Colab
 https://colab.research.google.com/drive/1h3ky9RWIrerttjD5q8yNm6aZHXRMq6sa?usp=sharing
